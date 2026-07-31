@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+data/
+*.session
+*.session-journal
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+.env
+.idea/
+.vscode/
+temp_media/
+backups/

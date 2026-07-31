@@ -1,0 +1,898 @@
+[2026-07-30 09:10:24] [INFO] [main]: Initializing Telegram Userbot Channel Cloner...
+[2026-07-30 09:10:24] [INFO] [src.database]: Database initialized at data/clone_history.db
+[2026-07-30 09:10:25] [INFO] [telethon.network.mtprotosender]: Connecting to 149.154.167.51:443/TcpFull...
+[2026-07-30 09:10:27] [INFO] [telethon.network.mtprotosender]: Connection to 149.154.167.51:443/TcpFull complete!
+[2026-07-30 09:14:51] [INFO] [main]: Initializing Telegram Channel Cloner Bot (@ChanSyncBot)...
+[2026-07-30 09:14:51] [INFO] [src.database]: Database initialized at data/clone_history.db
+[2026-07-30 09:14:51] [INFO] [src.bot_cloner]: [BotAPI] Loaded 1 active channel pairs across 1 source channels.
+[2026-07-30 09:14:52] [INFO] [main]: ⚡ Bot @ChanSyncBot is ONLINE & listening for channel posts! Press Ctrl+C to stop.
+[2026-07-30 09:15:49] [INFO] [main]: Initializing Telegram Channel Cloner Bot (@ChanSyncBot)...
+[2026-07-30 09:15:49] [INFO] [src.database]: Database initialized at data/clone_history.db
+[2026-07-30 09:15:49] [INFO] [src.bot_cloner]: [BotAPI] Loaded 1 active channel pairs across 1 source channels.
+[2026-07-30 09:15:51] [INFO] [main]: Bot @ChanSyncBot is ONLINE & listening for channel posts! Press Ctrl+C to stop.
+[2026-07-30 09:18:17] [INFO] [main]: Initializing Telegram Channel Cloner Bot (@ChanSyncBot)...
+[2026-07-30 09:18:17] [INFO] [src.database]: Database initialized at data/clone_history.db
+[2026-07-30 09:18:17] [INFO] [src.bot_cloner]: [BotAPI] Loaded 1 active channel pairs across 1 source channels.
+[2026-07-30 09:18:18] [INFO] [main]: Bot @ChanSyncBot is ONLINE & listening for channel posts! Press Ctrl+C to stop.
+[2026-07-30 09:18:20] [INFO] [httpx]: HTTP Request: POST https://api.telegram.org/bot8851400307:AAHZ7bZVlgUquQtqJRbDyROrCwmmVMBTG3k/getMe "HTTP/1.1 200 OK"
+[2026-07-30 09:18:20] [INFO] [telegram.ext.Application]: Application started
+[2026-07-30 09:18:20] [INFO] [httpx]: HTTP Request: POST https://api.telegram.org/bot8851400307:AAHZ7bZVlgUquQtqJRbDyROrCwmmVMBTG3k/deleteWebhook "HTTP/1.1 200 OK"
+[2026-07-30 09:18:31] [INFO] [httpx]: HTTP Request: POST https://api.telegram.org/bot8851400307:AAHZ7bZVlgUquQtqJRbDyROrCwmmVMBTG3k/getUpdates "HTTP/1.1 200 OK"
+[2026-07-30 09:18:41] [INFO] [httpx]: HTTP Request: POST https://api.telegram.org/bot8851400307:AAHZ7bZVlgUquQtqJRbDyROrCwmmVMBTG3k/getUpdates "HTTP/1.1 200 OK"
+[2026-07-30 09:18:52] [INFO] [httpx]: HTTP Request: POST https://api.telegram.org/bot8851400307:AAHZ7bZVlgUquQtqJRbDyROrCwmmVMBTG3k/getUpdates "HTTP/1.1 200 OK"
+[2026-07-30 09:19:02] [INFO] [httpx]: HTTP Request: POST https://api.telegram.org/bot8851400307:AAHZ7bZVlgUquQtqJRbDyROrCwmmVMBTG3k/getUpdates "HTTP/1.1 200 OK"
+[2026-07-30 09:19:12] [INFO] [httpx]: HTTP Request: POST https://api.telegram.org/bot8851400307:AAHZ7bZVlgUquQtqJRbDyROrCwmmVMBTG3k/getUpdates "HTTP/1.1 200 OK"
+[2026-07-30 09:19:23] [INFO] [httpx]: HTTP Request: POST https://api.telegram.org/bot8851400307:AAHZ7bZVlgUquQtqJRbDyROrCwmmVMBTG3k/getUpdates "HTTP/1.1 200 OK"
+[2026-07-30 09:19:33] [INFO] [httpx]: HTTP Request: POST https://api.telegram.org/bot8851400307:AAHZ7bZVlgUquQtqJRbDyROrCwmmVMBTG3k/getUpdates "HTTP/1.1 200 OK"
+[2026-07-30 09:19:43] [INFO] [httpx]: HTTP Request: POST https://api.telegram.org/bot8851400307:AAHZ7bZVlgUquQtqJRbDyROrCwmmVMBTG3k/getUpdates "HTTP/1.1 200 OK"
+[2026-07-30 09:19:54] [INFO] [httpx]: HTTP Request: POST https://api.telegram.org/bot8851400307:AAHZ7bZVlgUquQtqJRbDyROrCwmmVMBTG3k/getUpdates "HTTP/1.1 200 OK"
+[2026-07-30 09:20:04] [INFO] [httpx]: HTTP Request: POST https://api.telegram.org/bot8851400307:AAHZ7bZVlgUquQtqJRbDyROrCwmmVMBTG3k/getUpdates "HTTP/1.1 200 OK"
+[2026-07-30 09:20:14] [INFO] [httpx]: HTTP Request: POST https://api.telegram.org/bot8851400307:AAHZ7bZVlgUquQtqJRbDyROrCwmmVMBTG3k/getUpdates "HTTP/1.1 200 OK"
+[2026-07-30 09:20:25] [INFO] [httpx]: HTTP Request: POST https://api.telegram.org/bot8851400307:AAHZ7bZVlgUquQtqJRbDyROrCwmmVMBTG3k/getUpdates "HTTP/1.1 200 OK"
+[2026-07-30 09:20:35] [INFO] [httpx]: HTTP Request: POST https://api.telegram.org/bot8851400307:AAHZ7bZVlgUquQtqJRbDyROrCwmmVMBTG3k/getUpdates "HTTP/1.1 200 OK"
+[2026-07-30 09:20:46] [INFO] [httpx]: HTTP Request: POST https://api.telegram.org/bot8851400307:AAHZ7bZVlgUquQtqJRbDyROrCwmmVMBTG3k/getUpdates "HTTP/1.1 200 OK"
+[2026-07-30 09:20:56] [INFO] [httpx]: HTTP Request: POST https://api.telegram.org/bot8851400307:AAHZ7bZVlgUquQtqJRbDyROrCwmmVMBTG3k/getUpdates "HTTP/1.1 200 OK"
+[2026-07-30 09:21:06] [INFO] [httpx]: HTTP Request: POST https://api.telegram.org/bot8851400307:AAHZ7bZVlgUquQtqJRbDyROrCwmmVMBTG3k/getUpdates "HTTP/1.1 200 OK"
+[2026-07-30 09:21:17] [INFO] [httpx]: HTTP Request: POST https://api.telegram.org/bot8851400307:AAHZ7bZVlgUquQtqJRbDyROrCwmmVMBTG3k/getUpdates "HTTP/1.1 200 OK"
+[2026-07-30 09:21:24] [INFO] [httpx]: HTTP Request: POST https://api.telegram.org/bot8851400307:AAHZ7bZVlgUquQtqJRbDyROrCwmmVMBTG3k/getUpdates "HTTP/1.1 200 OK"
+[2026-07-30 09:21:24] [INFO] [telegram.ext.Application]: Application is stopping. This might take a moment.
+[2026-07-30 09:21:24] [INFO] [telegram.ext.Application]: Application.stop() complete
+[2026-07-30 09:21:53] [INFO] [src.database]: Database initialized at data/clone_history.db
+[2026-07-30 09:21:53] [INFO] [UserbotScraper]: Connecting Telegram Userbot...
+[2026-07-30 09:21:53] [INFO] [telethon.network.mtprotosender]: Connecting to 149.154.167.51:443/TcpFull...
+[2026-07-30 09:21:54] [INFO] [telethon.network.mtprotosender]: Connection to 149.154.167.51:443/TcpFull complete!
+[2026-07-30 10:52:50] [INFO] [src.database]: Database initialized at data/clone_history.db
+[2026-07-30 10:52:50] [INFO] [UserbotScraper]: Connecting Telegram Userbot with API ID 37604254...
+[2026-07-30 10:52:50] [INFO] [telethon.network.mtprotosender]: Connecting to 149.154.167.51:443/TcpFull...
+[2026-07-30 10:53:00] [WARNING] [telethon.network.mtprotosender]: Attempt 1 at connecting failed: TimeoutError: 
+[2026-07-30 10:53:11] [WARNING] [telethon.network.mtprotosender]: Attempt 2 at connecting failed: TimeoutError: 
+[2026-07-30 10:53:22] [WARNING] [telethon.network.mtprotosender]: Attempt 3 at connecting failed: TimeoutError: 
+[2026-07-30 10:53:33] [WARNING] [telethon.network.mtprotosender]: Attempt 4 at connecting failed: TimeoutError: 
+[2026-07-30 10:53:44] [WARNING] [telethon.network.mtprotosender]: Attempt 5 at connecting failed: TimeoutError: 
+[2026-07-30 10:53:55] [WARNING] [telethon.network.mtprotosender]: Attempt 6 at connecting failed: TimeoutError: 
+[2026-07-30 10:56:00] [INFO] [src.database]: Database initialized at data/clone_history.db
+[2026-07-30 10:56:00] [INFO] [UserbotScraper]: Connecting Telegram Userbot with API ID 37604254...
+[2026-07-30 10:56:00] [INFO] [telethon.network.mtprotosender]: Connecting to 149.154.167.51:443/TcpFull...
+[2026-07-30 10:56:01] [INFO] [telethon.network.mtprotosender]: Connection to 149.154.167.51:443/TcpFull complete!
+[2026-07-30 10:56:03] [INFO] [telethon.client.users]: Phone migrated to 4
+[2026-07-30 10:56:03] [INFO] [telethon.client.telegrambaseclient]: Reconnecting to new data center 4
+[2026-07-30 10:56:04] [INFO] [telethon.network.mtprotosender]: Disconnecting from 149.154.167.51:443/TcpFull...
+[2026-07-30 10:56:04] [INFO] [telethon.network.mtprotosender]: Disconnection from 149.154.167.51:443/TcpFull complete!
+[2026-07-30 10:56:04] [INFO] [telethon.network.mtprotosender]: Connecting to 149.154.167.92:443/TcpFull...
+[2026-07-30 10:56:06] [INFO] [telethon.network.mtprotosender]: Connection to 149.154.167.92:443/TcpFull complete!
+[2026-07-30 10:56:21] [INFO] [UserbotScraper]: Logged in as Telegram User: Mr (@LearnWithSamiii) - Phone: +923106126454
+[2026-07-30 10:56:21] [INFO] [src.cloner]: [Telethon] Loaded 1 active channel pairs.
+[2026-07-30 10:56:21] [INFO] [src.cloner]: Telethon event handlers successfully registered.
+[2026-07-30 10:56:21] [INFO] [UserbotScraper]: Starting past history clone from Hustle Pack (-1002883085073) to LWS VaultPack (-1003700318583)...
+[2026-07-30 10:56:21] [INFO] [src.cloner]: 🔄 Starting historical backfill from '-1002883085073' to '-1003700318583'...
+[2026-07-30 10:56:26] [INFO] [src.cloner]: 📋 Found 255 past messages in '-1002883085073'. Backfilling now...
+[2026-07-30 10:56:26] [ERROR] [src.cloner]: Failed to backfill past msg 3: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:26] [ERROR] [src.cloner]: Failed to backfill past msg 7: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:26] [ERROR] [src.cloner]: Failed to backfill past msg 8: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:26] [ERROR] [src.cloner]: Failed to backfill past msg 9: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:26] [ERROR] [src.cloner]: Failed to backfill past msg 10: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:26] [ERROR] [src.cloner]: Failed to backfill past msg 11: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:26] [ERROR] [src.cloner]: Failed to backfill past msg 12: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 13: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 14: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 15: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 17: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 18: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 19: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 20: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 21: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 23: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 24: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 25: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 26: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 27: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 28: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 29: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 30: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 31: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 32: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 33: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 34: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 35: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 38: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 39: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 40: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 41: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 42: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 43: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 46: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 47: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 50: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 51: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 52: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 53: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 55: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 56: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 57: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 58: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 59: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 60: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 61: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 62: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 63: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 64: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 65: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 66: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 67: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 68: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 69: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 70: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 71: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 72: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 73: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 75: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 76: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 78: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 79: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 80: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 81: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 82: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 84: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 85: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 86: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 87: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 88: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 89: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 90: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 92: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 93: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 94: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 95: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 96: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 98: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 99: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 100: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 101: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 102: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 104: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 105: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 106: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 107: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 108: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 109: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 110: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 111: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 112: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 113: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 114: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 115: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 116: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 117: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 118: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 119: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 120: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 121: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 122: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 123: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 124: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 125: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 126: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 127: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 129: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 133: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 134: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 135: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 136: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 137: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 138: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 139: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 140: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 141: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 142: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 143: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 144: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:27] [ERROR] [src.cloner]: Failed to backfill past msg 145: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 146: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 149: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 152: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 153: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 155: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 156: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 157: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 158: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 159: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 160: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 161: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 162: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 163: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 164: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 165: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 167: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 168: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 170: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 172: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 173: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 174: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 175: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 176: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 177: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 178: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 179: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 180: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 182: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 183: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 184: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 185: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 186: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 187: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 188: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 189: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 190: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 191: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 192: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 193: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 194: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 196: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 197: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 198: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 199: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 200: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 201: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 202: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 203: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 204: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 205: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 206: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 207: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 208: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 209: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 210: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 211: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 212: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 213: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 214: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 217: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 218: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 219: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 220: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 221: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 222: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 223: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 224: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 225: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 226: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 227: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 228: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 230: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 231: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 232: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 233: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 234: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 235: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 236: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 237: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 238: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 239: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 240: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 243: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 245: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 246: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 247: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 248: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 249: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 250: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 251: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 252: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 253: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 254: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 255: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 256: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 257: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 258: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 259: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 260: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 261: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 262: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 263: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 264: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 265: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 266: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 267: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 268: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 269: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 271: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 272: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 273: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 274: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 275: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 276: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 277: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 278: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 279: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 280: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 281: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 282: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 283: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 284: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 285: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 286: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 287: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 288: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 289: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 290: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 291: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 292: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 293: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 294: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 295: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [ERROR] [src.cloner]: Failed to backfill past msg 297: Error binding parameter 3: type 'InputPeerChannel' is not supported
+[2026-07-30 10:56:28] [INFO] [src.cloner]: ✅ Historical backfill complete for '-1002883085073'. Total synced: 0 new messages.
+[2026-07-30 10:56:28] [INFO] [UserbotScraper]: Historical clone complete! Bot is now listening for new live posts in real-time. Press Ctrl+C to stop.
+[2026-07-30 10:59:51] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:01:30] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:03:36] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:04:11] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:05:07] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:06:16] [INFO] [src.database]: Database initialized at data/clone_history.db
+[2026-07-30 11:06:16] [INFO] [UserbotScraper]: Connecting Telegram Userbot with API ID 37604254...
+[2026-07-30 11:06:16] [INFO] [telethon.network.mtprotosender]: Connecting to 149.154.167.92:443/TcpFull...
+[2026-07-30 11:06:17] [INFO] [telethon.network.mtprotosender]: Connection to 149.154.167.92:443/TcpFull complete!
+[2026-07-30 11:06:20] [INFO] [UserbotScraper]: Logged in as Telegram User: Mr (@LearnWithSamiii) - Phone: +923106126454
+[2026-07-30 11:06:20] [INFO] [src.cloner]: [Telethon] Loaded 1 active channel pairs.
+[2026-07-30 11:06:20] [INFO] [src.cloner]: Telethon event handlers successfully registered.
+[2026-07-30 11:06:20] [INFO] [UserbotScraper]: Starting past history clone from Hustle Pack (-1002883085073) to LWS VaultPack (-1003700318583)...
+[2026-07-30 11:06:20] [INFO] [src.cloner]: Starting historical backfill from '-1002883085073' to '-1003700318583'...
+[2026-07-30 11:06:24] [INFO] [src.cloner]: Found 255 past messages in '-1002883085073'. Backfilling now...
+[2026-07-30 11:06:25] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:3 -> Target -1003700318583:5
+[2026-07-30 11:06:25] [INFO] [src.cloner]: [1/255] Synced past message ID 3
+[2026-07-30 11:06:26] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:06:27] [INFO] [telethon.client.uploads]: Uploading file of 35071 bytes in 1 chunks of 131072
+[2026-07-30 11:06:28] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:7 -> Target -1003700318583:6
+[2026-07-30 11:06:28] [INFO] [src.cloner]: [2/255] Synced past message ID 7
+[2026-07-30 11:06:30] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:06:31] [INFO] [telethon.client.uploads]: Uploading file of 72343 bytes in 1 chunks of 131072
+[2026-07-30 11:06:33] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:8 -> Target -1003700318583:7
+[2026-07-30 11:06:33] [INFO] [src.cloner]: [3/255] Synced past message ID 8
+[2026-07-30 11:06:34] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:06:35] [INFO] [telethon.client.uploads]: Uploading file of 35268 bytes in 1 chunks of 131072
+[2026-07-30 11:06:36] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:9 -> Target -1003700318583:8
+[2026-07-30 11:06:36] [INFO] [src.cloner]: [4/255] Synced past message ID 9
+[2026-07-30 11:06:37] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:06:38] [INFO] [telethon.client.uploads]: Uploading file of 17814 bytes in 1 chunks of 131072
+[2026-07-30 11:06:39] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:10 -> Target -1003700318583:9
+[2026-07-30 11:06:39] [INFO] [src.cloner]: [5/255] Synced past message ID 10
+[2026-07-30 11:06:40] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:06:41] [INFO] [telethon.client.uploads]: Uploading file of 29341 bytes in 1 chunks of 131072
+[2026-07-30 11:06:43] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:11 -> Target -1003700318583:10
+[2026-07-30 11:06:43] [INFO] [src.cloner]: [6/255] Synced past message ID 11
+[2026-07-30 11:06:44] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:06:45] [INFO] [telethon.client.uploads]: Uploading file of 71589 bytes in 1 chunks of 131072
+[2026-07-30 11:06:49] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:12 -> Target -1003700318583:11
+[2026-07-30 11:06:49] [INFO] [src.cloner]: [7/255] Synced past message ID 12
+[2026-07-30 11:06:50] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:06:50] [INFO] [telethon.client.uploads]: Uploading file of 26011 bytes in 1 chunks of 131072
+[2026-07-30 11:06:52] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:13 -> Target -1003700318583:12
+[2026-07-30 11:06:52] [INFO] [src.cloner]: [8/255] Synced past message ID 13
+[2026-07-30 11:06:53] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:06:55] [INFO] [telethon.client.uploads]: Uploading file of 137974 bytes in 2 chunks of 131072
+[2026-07-30 11:06:58] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:14 -> Target -1003700318583:13
+[2026-07-30 11:06:58] [INFO] [src.cloner]: [9/255] Synced past message ID 14
+[2026-07-30 11:06:59] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:07:01] [INFO] [telethon.client.uploads]: Uploading file of 134533 bytes in 2 chunks of 131072
+[2026-07-30 11:07:03] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:15 -> Target -1003700318583:14
+[2026-07-30 11:07:03] [INFO] [src.cloner]: [10/255] Synced past message ID 15
+[2026-07-30 11:07:04] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:07:07] [INFO] [telethon.client.uploads]: Uploading file of 197574 bytes in 2 chunks of 131072
+[2026-07-30 11:07:13] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:17 -> Target -1003700318583:15
+[2026-07-30 11:07:13] [INFO] [src.cloner]: [11/255] Synced past message ID 17
+[2026-07-30 11:07:14] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:07:14] [INFO] [telethon.client.uploads]: Uploading file of 18034 bytes in 1 chunks of 131072
+[2026-07-30 11:07:15] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:18 -> Target -1003700318583:16
+[2026-07-30 11:07:15] [INFO] [src.cloner]: [12/255] Synced past message ID 18
+[2026-07-30 11:07:17] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:07:17] [INFO] [telethon.client.uploads]: Uploading file of 46438 bytes in 1 chunks of 131072
+[2026-07-30 11:07:19] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:19 -> Target -1003700318583:17
+[2026-07-30 11:07:19] [INFO] [src.cloner]: [13/255] Synced past message ID 19
+[2026-07-30 11:07:20] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:07:21] [INFO] [telethon.client.uploads]: Uploading file of 31699 bytes in 1 chunks of 131072
+[2026-07-30 11:07:22] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:20 -> Target -1003700318583:18
+[2026-07-30 11:07:22] [INFO] [src.cloner]: [14/255] Synced past message ID 20
+[2026-07-30 11:07:23] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:07:24] [INFO] [telethon.client.uploads]: Uploading file of 3308 bytes in 1 chunks of 131072
+[2026-07-30 11:07:25] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:21 -> Target -1003700318583:19
+[2026-07-30 11:07:25] [INFO] [src.cloner]: [15/255] Synced past message ID 21
+[2026-07-30 11:07:26] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:07:27] [INFO] [telethon.client.uploads]: Uploading file of 62600 bytes in 1 chunks of 131072
+[2026-07-30 11:07:28] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:23 -> Target -1003700318583:20
+[2026-07-30 11:07:28] [INFO] [src.cloner]: [16/255] Synced past message ID 23
+[2026-07-30 11:07:30] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:07:30] [INFO] [telethon.client.uploads]: Uploading file of 11780 bytes in 1 chunks of 131072
+[2026-07-30 11:07:31] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:24 -> Target -1003700318583:21
+[2026-07-30 11:07:31] [INFO] [src.cloner]: [17/255] Synced past message ID 24
+[2026-07-30 11:07:32] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:07:33] [INFO] [telethon.client.uploads]: Uploading file of 19522 bytes in 1 chunks of 131072
+[2026-07-30 11:07:34] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:25 -> Target -1003700318583:22
+[2026-07-30 11:07:34] [INFO] [src.cloner]: [18/255] Synced past message ID 25
+[2026-07-30 11:07:35] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:07:36] [INFO] [telethon.client.uploads]: Uploading file of 4877 bytes in 1 chunks of 131072
+[2026-07-30 11:07:38] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:26 -> Target -1003700318583:23
+[2026-07-30 11:07:38] [INFO] [src.cloner]: [19/255] Synced past message ID 26
+[2026-07-30 11:07:39] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:07:39] [INFO] [telethon.client.uploads]: Uploading file of 33251 bytes in 1 chunks of 131072
+[2026-07-30 11:07:41] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:27 -> Target -1003700318583:24
+[2026-07-30 11:07:41] [INFO] [src.cloner]: [20/255] Synced past message ID 27
+[2026-07-30 11:07:43] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:07:43] [INFO] [telethon.client.uploads]: Uploading file of 23349 bytes in 1 chunks of 131072
+[2026-07-30 11:07:45] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:28 -> Target -1003700318583:25
+[2026-07-30 11:07:45] [INFO] [src.cloner]: [21/255] Synced past message ID 28
+[2026-07-30 11:07:46] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:07:47] [INFO] [telethon.client.uploads]: Uploading file of 17649 bytes in 1 chunks of 131072
+[2026-07-30 11:07:48] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:29 -> Target -1003700318583:26
+[2026-07-30 11:07:48] [INFO] [src.cloner]: [22/255] Synced past message ID 29
+[2026-07-30 11:07:49] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:07:49] [INFO] [telethon.client.uploads]: Uploading file of 6413 bytes in 1 chunks of 131072
+[2026-07-30 11:07:51] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:30 -> Target -1003700318583:27
+[2026-07-30 11:07:51] [INFO] [src.cloner]: [23/255] Synced past message ID 30
+[2026-07-30 11:07:52] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:07:53] [INFO] [telethon.client.uploads]: Uploading file of 57330 bytes in 1 chunks of 131072
+[2026-07-30 11:07:55] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:31 -> Target -1003700318583:28
+[2026-07-30 11:07:55] [INFO] [src.cloner]: [24/255] Synced past message ID 31
+[2026-07-30 11:07:57] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:07:57] [INFO] [telethon.client.uploads]: Uploading file of 9686 bytes in 1 chunks of 131072
+[2026-07-30 11:07:58] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:32 -> Target -1003700318583:29
+[2026-07-30 11:07:58] [INFO] [src.cloner]: [25/255] Synced past message ID 32
+[2026-07-30 11:07:59] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:08:00] [INFO] [telethon.client.uploads]: Uploading file of 12488 bytes in 1 chunks of 131072
+[2026-07-30 11:08:01] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:33 -> Target -1003700318583:30
+[2026-07-30 11:08:01] [INFO] [src.cloner]: [26/255] Synced past message ID 33
+[2026-07-30 11:08:02] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:08:03] [INFO] [telethon.client.uploads]: Uploading file of 9369 bytes in 1 chunks of 131072
+[2026-07-30 11:08:04] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:34 -> Target -1003700318583:31
+[2026-07-30 11:08:04] [INFO] [src.cloner]: [27/255] Synced past message ID 34
+[2026-07-30 11:08:05] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:08:06] [INFO] [telethon.client.uploads]: Uploading file of 29673 bytes in 1 chunks of 131072
+[2026-07-30 11:08:08] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:35 -> Target -1003700318583:32
+[2026-07-30 11:08:08] [INFO] [src.cloner]: [28/255] Synced past message ID 35
+[2026-07-30 11:08:09] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:08:10] [INFO] [telethon.client.uploads]: Uploading file of 111397 bytes in 1 chunks of 131072
+[2026-07-30 11:08:14] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:38 -> Target -1003700318583:33
+[2026-07-30 11:08:14] [INFO] [src.cloner]: [29/255] Synced past message ID 38
+[2026-07-30 11:08:16] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:08:16] [INFO] [telethon.client.uploads]: Uploading file of 13028 bytes in 1 chunks of 131072
+[2026-07-30 11:08:18] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:39 -> Target -1003700318583:34
+[2026-07-30 11:08:18] [INFO] [src.cloner]: [30/255] Synced past message ID 39
+[2026-07-30 11:08:19] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:08:20] [INFO] [telethon.client.uploads]: Uploading file of 45096 bytes in 1 chunks of 131072
+[2026-07-30 11:08:22] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:40 -> Target -1003700318583:35
+[2026-07-30 11:08:22] [INFO] [src.cloner]: [31/255] Synced past message ID 40
+[2026-07-30 11:08:23] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:08:24] [INFO] [telethon.client.uploads]: Uploading file of 23543 bytes in 1 chunks of 131072
+[2026-07-30 11:08:27] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:41 -> Target -1003700318583:36
+[2026-07-30 11:08:27] [INFO] [src.cloner]: [32/255] Synced past message ID 41
+[2026-07-30 11:08:28] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:08:28] [INFO] [telethon.client.uploads]: Uploading file of 18193 bytes in 1 chunks of 131072
+[2026-07-30 11:08:30] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:42 -> Target -1003700318583:37
+[2026-07-30 11:08:30] [INFO] [src.cloner]: [33/255] Synced past message ID 42
+[2026-07-30 11:08:31] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:08:32] [INFO] [telethon.client.uploads]: Uploading file of 3301 bytes in 1 chunks of 131072
+[2026-07-30 11:08:33] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:43 -> Target -1003700318583:38
+[2026-07-30 11:08:33] [INFO] [src.cloner]: [34/255] Synced past message ID 43
+[2026-07-30 11:08:34] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:08:35] [INFO] [telethon.client.uploads]: Uploading file of 34057 bytes in 1 chunks of 131072
+[2026-07-30 11:08:37] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:46 -> Target -1003700318583:39
+[2026-07-30 11:08:37] [INFO] [src.cloner]: [35/255] Synced past message ID 46
+[2026-07-30 11:08:38] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:08:38] [INFO] [telethon.client.uploads]: Uploading file of 39119 bytes in 1 chunks of 131072
+[2026-07-30 11:08:41] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:47 -> Target -1003700318583:40
+[2026-07-30 11:08:41] [INFO] [src.cloner]: [36/255] Synced past message ID 47
+[2026-07-30 11:08:42] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:08:42] [INFO] [telethon.client.uploads]: Uploading file of 8639 bytes in 1 chunks of 131072
+[2026-07-30 11:08:43] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:50 -> Target -1003700318583:41
+[2026-07-30 11:08:43] [INFO] [src.cloner]: [37/255] Synced past message ID 50
+[2026-07-30 11:08:45] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:08:45] [INFO] [telethon.client.uploads]: Uploading file of 53470 bytes in 1 chunks of 131072
+[2026-07-30 11:08:48] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:51 -> Target -1003700318583:42
+[2026-07-30 11:08:48] [INFO] [src.cloner]: [38/255] Synced past message ID 51
+[2026-07-30 11:08:49] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:08:50] [INFO] [telethon.client.uploads]: Uploading file of 20585 bytes in 1 chunks of 131072
+[2026-07-30 11:08:51] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:52 -> Target -1003700318583:43
+[2026-07-30 11:08:51] [INFO] [src.cloner]: [39/255] Synced past message ID 52
+[2026-07-30 11:08:53] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:08:54] [INFO] [telethon.client.uploads]: Uploading file of 102975 bytes in 1 chunks of 131072
+[2026-07-30 11:08:58] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:53 -> Target -1003700318583:44
+[2026-07-30 11:08:58] [INFO] [src.cloner]: [40/255] Synced past message ID 53
+[2026-07-30 11:08:59] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:09:00] [INFO] [telethon.client.uploads]: Uploading file of 26228 bytes in 1 chunks of 131072
+[2026-07-30 11:09:01] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:55 -> Target -1003700318583:45
+[2026-07-30 11:09:01] [INFO] [src.cloner]: [41/255] Synced past message ID 55
+[2026-07-30 11:09:02] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:09:04] [INFO] [telethon.client.uploads]: Uploading file of 70781 bytes in 1 chunks of 131072
+[2026-07-30 11:09:07] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:56 -> Target -1003700318583:46
+[2026-07-30 11:09:07] [INFO] [src.cloner]: [42/255] Synced past message ID 56
+[2026-07-30 11:09:08] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:09:09] [INFO] [telethon.client.uploads]: Uploading file of 39490 bytes in 1 chunks of 131072
+[2026-07-30 11:09:11] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:57 -> Target -1003700318583:47
+[2026-07-30 11:09:11] [INFO] [src.cloner]: [43/255] Synced past message ID 57
+[2026-07-30 11:09:11] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:09:12] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:09:13] [INFO] [telethon.client.uploads]: Uploading file of 63014 bytes in 1 chunks of 131072
+[2026-07-30 11:09:16] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:58 -> Target -1003700318583:48
+[2026-07-30 11:09:16] [INFO] [src.cloner]: [44/255] Synced past message ID 58
+[2026-07-30 11:09:17] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:09:19] [INFO] [telethon.client.uploads]: Uploading file of 121011 bytes in 1 chunks of 131072
+[2026-07-30 11:09:24] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:59 -> Target -1003700318583:49
+[2026-07-30 11:09:24] [INFO] [src.cloner]: [45/255] Synced past message ID 59
+[2026-07-30 11:09:25] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:09:25] [INFO] [telethon.client.uploads]: Uploading file of 17441 bytes in 1 chunks of 131072
+[2026-07-30 11:09:26] [WARNING] [src.utils]: Telegram RPCError on attempt 1/5: The caption is too long (caused by SendMediaRequest)
+[2026-07-30 11:09:31] [INFO] [telethon.client.uploads]: Uploading file of 17441 bytes in 1 chunks of 131072
+[2026-07-30 11:09:31] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:09:32] [WARNING] [src.utils]: Telegram RPCError on attempt 2/5: The caption is too long (caused by SendMediaRequest)
+[2026-07-30 11:09:42] [INFO] [telethon.client.uploads]: Uploading file of 17441 bytes in 1 chunks of 131072
+[2026-07-30 11:09:43] [WARNING] [src.utils]: Telegram RPCError on attempt 3/5: The caption is too long (caused by SendMediaRequest)
+[2026-07-30 11:10:03] [INFO] [telethon.client.uploads]: Uploading file of 17441 bytes in 1 chunks of 131072
+[2026-07-30 11:10:04] [WARNING] [src.utils]: Telegram RPCError on attempt 4/5: The caption is too long (caused by SendMediaRequest)
+[2026-07-30 11:10:10] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:10:44] [INFO] [telethon.client.uploads]: Uploading file of 17441 bytes in 1 chunks of 131072
+[2026-07-30 11:10:45] [WARNING] [src.utils]: Telegram RPCError on attempt 5/5: The caption is too long (caused by SendMediaRequest)
+[2026-07-30 11:10:45] [ERROR] [src.cloner]: Failed to backfill past msg 60: The caption is too long (caused by SendMediaRequest)
+[2026-07-30 11:10:45] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:10:46] [INFO] [telethon.client.uploads]: Uploading file of 12955 bytes in 1 chunks of 131072
+[2026-07-30 11:10:47] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:61 -> Target -1003700318583:50
+[2026-07-30 11:10:47] [INFO] [src.cloner]: [47/255] Synced past message ID 61
+[2026-07-30 11:10:58] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:11:02] [INFO] [telethon.client.uploads]: Uploading file of 24448 bytes in 1 chunks of 131072
+[2026-07-30 11:11:05] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:62 -> Target -1003700318583:51
+[2026-07-30 11:11:05] [INFO] [src.cloner]: [48/255] Synced past message ID 62
+[2026-07-30 11:11:07] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:11:12] [INFO] [telethon.client.uploads]: Uploading file of 79747 bytes in 1 chunks of 131072
+[2026-07-30 11:11:16] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:63 -> Target -1003700318583:52
+[2026-07-30 11:11:16] [INFO] [src.cloner]: [49/255] Synced past message ID 63
+[2026-07-30 11:11:17] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:11:19] [INFO] [telethon.client.uploads]: Uploading file of 22114 bytes in 1 chunks of 131072
+[2026-07-30 11:11:22] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:64 -> Target -1003700318583:53
+[2026-07-30 11:11:22] [INFO] [src.cloner]: [50/255] Synced past message ID 64
+[2026-07-30 11:11:24] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:11:25] [INFO] [telethon.client.uploads]: Uploading file of 9784 bytes in 1 chunks of 131072
+[2026-07-30 11:11:26] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:65 -> Target -1003700318583:54
+[2026-07-30 11:11:26] [INFO] [src.cloner]: [51/255] Synced past message ID 65
+[2026-07-30 11:11:27] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:11:29] [INFO] [telethon.client.uploads]: Uploading file of 32800 bytes in 1 chunks of 131072
+[2026-07-30 11:11:33] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:66 -> Target -1003700318583:55
+[2026-07-30 11:11:33] [INFO] [src.cloner]: [52/255] Synced past message ID 66
+[2026-07-30 11:11:34] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:11:35] [INFO] [telethon.client.uploads]: Uploading file of 8706 bytes in 1 chunks of 131072
+[2026-07-30 11:11:37] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:67 -> Target -1003700318583:56
+[2026-07-30 11:11:37] [INFO] [src.cloner]: [53/255] Synced past message ID 67
+[2026-07-30 11:11:38] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:11:39] [INFO] [telethon.client.uploads]: Uploading file of 5852 bytes in 1 chunks of 131072
+[2026-07-30 11:11:40] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:68 -> Target -1003700318583:57
+[2026-07-30 11:11:40] [INFO] [src.cloner]: [54/255] Synced past message ID 68
+[2026-07-30 11:11:40] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:11:42] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:11:42] [INFO] [telethon.client.uploads]: Uploading file of 4862 bytes in 1 chunks of 131072
+[2026-07-30 11:11:44] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:69 -> Target -1003700318583:58
+[2026-07-30 11:11:44] [INFO] [src.cloner]: [55/255] Synced past message ID 69
+[2026-07-30 11:11:45] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:11:46] [INFO] [telethon.client.uploads]: Uploading file of 6304 bytes in 1 chunks of 131072
+[2026-07-30 11:11:47] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:70 -> Target -1003700318583:59
+[2026-07-30 11:11:47] [INFO] [src.cloner]: [56/255] Synced past message ID 70
+[2026-07-30 11:11:48] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:11:49] [INFO] [telethon.client.uploads]: Uploading file of 6600 bytes in 1 chunks of 131072
+[2026-07-30 11:11:50] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:71 -> Target -1003700318583:60
+[2026-07-30 11:11:51] [INFO] [src.cloner]: [57/255] Synced past message ID 71
+[2026-07-30 11:11:52] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:12:00] [INFO] [telethon.client.uploads]: Uploading file of 126944 bytes in 1 chunks of 131072
+[2026-07-30 11:12:11] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:72 -> Target -1003700318583:61
+[2026-07-30 11:12:11] [INFO] [src.cloner]: [58/255] Synced past message ID 72
+[2026-07-30 11:12:13] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:12:16] [INFO] [telethon.client.uploads]: Uploading file of 51752 bytes in 1 chunks of 131072
+[2026-07-30 11:12:21] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:73 -> Target -1003700318583:62
+[2026-07-30 11:12:21] [INFO] [src.cloner]: [59/255] Synced past message ID 73
+[2026-07-30 11:12:22] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:12:26] [INFO] [telethon.client.uploads]: Uploading file of 86389 bytes in 1 chunks of 131072
+[2026-07-30 11:12:31] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:75 -> Target -1003700318583:63
+[2026-07-30 11:12:31] [INFO] [src.cloner]: [60/255] Synced past message ID 75
+[2026-07-30 11:12:33] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:76 -> Target -1003700318583:64
+[2026-07-30 11:12:33] [INFO] [src.cloner]: [61/255] Synced past message ID 76
+[2026-07-30 11:12:35] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:12:37] [INFO] [telethon.client.uploads]: Uploading file of 27457 bytes in 1 chunks of 131072
+[2026-07-30 11:12:40] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:78 -> Target -1003700318583:65
+[2026-07-30 11:12:41] [INFO] [src.cloner]: [62/255] Synced past message ID 78
+[2026-07-30 11:12:42] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:12:45] [INFO] [telethon.client.uploads]: Uploading file of 34438 bytes in 1 chunks of 131072
+[2026-07-30 11:12:49] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:79 -> Target -1003700318583:66
+[2026-07-30 11:12:49] [INFO] [src.cloner]: [63/255] Synced past message ID 79
+[2026-07-30 11:12:50] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:80 -> Target -1003700318583:67
+[2026-07-30 11:12:50] [INFO] [src.cloner]: [64/255] Synced past message ID 80
+[2026-07-30 11:12:53] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:81 -> Target -1003700318583:68
+[2026-07-30 11:12:53] [INFO] [src.cloner]: [65/255] Synced past message ID 81
+[2026-07-30 11:12:54] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:13:00] [INFO] [telethon.client.uploads]: Uploading file of 91631 bytes in 1 chunks of 131072
+[2026-07-30 11:13:07] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:82 -> Target -1003700318583:69
+[2026-07-30 11:13:07] [INFO] [src.cloner]: [66/255] Synced past message ID 82
+[2026-07-30 11:13:08] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:13:09] [INFO] [telethon.client.uploads]: Uploading file of 12000 bytes in 1 chunks of 131072
+[2026-07-30 11:13:11] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:84 -> Target -1003700318583:70
+[2026-07-30 11:13:11] [INFO] [src.cloner]: [67/255] Synced past message ID 84
+[2026-07-30 11:13:12] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:13:14] [INFO] [telethon.client.uploads]: Uploading file of 20273 bytes in 1 chunks of 131072
+[2026-07-30 11:13:15] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:13:16] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:85 -> Target -1003700318583:71
+[2026-07-30 11:13:16] [INFO] [src.cloner]: [68/255] Synced past message ID 85
+[2026-07-30 11:13:16] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:13:17] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:13:20] [INFO] [telethon.client.uploads]: Uploading file of 29716 bytes in 1 chunks of 131072
+[2026-07-30 11:13:22] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:86 -> Target -1003700318583:72
+[2026-07-30 11:13:22] [INFO] [src.cloner]: [69/255] Synced past message ID 86
+[2026-07-30 11:13:24] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:87 -> Target -1003700318583:73
+[2026-07-30 11:13:24] [INFO] [src.cloner]: [70/255] Synced past message ID 87
+[2026-07-30 11:13:25] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:13:27] [INFO] [telethon.client.uploads]: Uploading file of 23875 bytes in 1 chunks of 131072
+[2026-07-30 11:13:29] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:88 -> Target -1003700318583:74
+[2026-07-30 11:13:29] [INFO] [src.cloner]: [71/255] Synced past message ID 88
+[2026-07-30 11:13:31] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:89 -> Target -1003700318583:75
+[2026-07-30 11:13:31] [INFO] [src.cloner]: [72/255] Synced past message ID 89
+[2026-07-30 11:13:33] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:90 -> Target -1003700318583:76
+[2026-07-30 11:13:33] [INFO] [src.cloner]: [73/255] Synced past message ID 90
+[2026-07-30 11:13:35] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:92 -> Target -1003700318583:77
+[2026-07-30 11:13:35] [INFO] [src.cloner]: [74/255] Synced past message ID 92
+[2026-07-30 11:13:36] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:13:39] [INFO] [telethon.client.uploads]: Uploading file of 34779 bytes in 1 chunks of 131072
+[2026-07-30 11:13:42] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:93 -> Target -1003700318583:78
+[2026-07-30 11:13:42] [INFO] [src.cloner]: [75/255] Synced past message ID 93
+[2026-07-30 11:13:43] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:13:45] [INFO] [telethon.client.uploads]: Uploading file of 20231 bytes in 1 chunks of 131072
+[2026-07-30 11:13:47] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:94 -> Target -1003700318583:79
+[2026-07-30 11:13:47] [INFO] [src.cloner]: [76/255] Synced past message ID 94
+[2026-07-30 11:13:48] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:13:51] [INFO] [telethon.client.uploads]: Uploading file of 24278 bytes in 1 chunks of 131072
+[2026-07-30 11:13:53] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:95 -> Target -1003700318583:80
+[2026-07-30 11:13:53] [INFO] [src.cloner]: [77/255] Synced past message ID 95
+[2026-07-30 11:13:54] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:13:56] [INFO] [telethon.client.uploads]: Uploading file of 19459 bytes in 1 chunks of 131072
+[2026-07-30 11:13:58] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:96 -> Target -1003700318583:81
+[2026-07-30 11:13:58] [INFO] [src.cloner]: [78/255] Synced past message ID 96
+[2026-07-30 11:13:59] [INFO] [telethon.client.updates]: Got difference for account updates
+[2026-07-30 11:14:00] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:98 -> Target -1003700318583:82
+[2026-07-30 11:14:00] [INFO] [src.cloner]: [79/255] Synced past message ID 98
+[2026-07-30 11:14:01] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:14:02] [INFO] [telethon.client.uploads]: Uploading file of 4057 bytes in 1 chunks of 131072
+[2026-07-30 11:14:04] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:99 -> Target -1003700318583:83
+[2026-07-30 11:14:04] [INFO] [src.cloner]: [80/255] Synced past message ID 99
+[2026-07-30 11:14:05] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:14:08] [INFO] [telethon.client.uploads]: Uploading file of 45087 bytes in 1 chunks of 131072
+[2026-07-30 11:14:12] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:100 -> Target -1003700318583:84
+[2026-07-30 11:14:12] [INFO] [src.cloner]: [81/255] Synced past message ID 100
+[2026-07-30 11:14:13] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:14:15] [INFO] [telethon.client.uploads]: Uploading file of 5247 bytes in 1 chunks of 131072
+[2026-07-30 11:14:16] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:101 -> Target -1003700318583:85
+[2026-07-30 11:14:16] [INFO] [src.cloner]: [82/255] Synced past message ID 101
+[2026-07-30 11:14:17] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:14:19] [INFO] [telethon.client.uploads]: Uploading file of 23302 bytes in 1 chunks of 131072
+[2026-07-30 11:14:22] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:102 -> Target -1003700318583:86
+[2026-07-30 11:14:22] [INFO] [src.cloner]: [83/255] Synced past message ID 102
+[2026-07-30 11:14:23] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:14:26] [INFO] [telethon.client.uploads]: Uploading file of 50159 bytes in 1 chunks of 131072
+[2026-07-30 11:14:31] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:104 -> Target -1003700318583:87
+[2026-07-30 11:14:31] [INFO] [src.cloner]: [84/255] Synced past message ID 104
+[2026-07-30 11:14:32] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:14:35] [INFO] [telethon.client.uploads]: Uploading file of 41610 bytes in 1 chunks of 131072
+[2026-07-30 11:14:38] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:105 -> Target -1003700318583:88
+[2026-07-30 11:14:38] [INFO] [src.cloner]: [85/255] Synced past message ID 105
+[2026-07-30 11:14:40] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:14:41] [INFO] [telethon.client.uploads]: Uploading file of 26760 bytes in 1 chunks of 131072
+[2026-07-30 11:14:43] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:106 -> Target -1003700318583:89
+[2026-07-30 11:14:43] [INFO] [src.cloner]: [86/255] Synced past message ID 106
+[2026-07-30 11:14:45] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:14:47] [INFO] [telethon.client.uploads]: Uploading file of 46658 bytes in 1 chunks of 131072
+[2026-07-30 11:14:51] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:107 -> Target -1003700318583:90
+[2026-07-30 11:14:51] [INFO] [src.cloner]: [87/255] Synced past message ID 107
+[2026-07-30 11:14:52] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:15:02] [INFO] [telethon.client.uploads]: Uploading file of 162015 bytes in 2 chunks of 131072
+[2026-07-30 11:15:13] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:108 -> Target -1003700318583:91
+[2026-07-30 11:15:13] [INFO] [src.cloner]: [88/255] Synced past message ID 108
+[2026-07-30 11:15:14] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:15:16] [INFO] [telethon.client.uploads]: Uploading file of 39209 bytes in 1 chunks of 131072
+[2026-07-30 11:15:20] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:109 -> Target -1003700318583:92
+[2026-07-30 11:15:20] [INFO] [src.cloner]: [89/255] Synced past message ID 109
+[2026-07-30 11:15:21] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:15:23] [INFO] [telethon.client.uploads]: Uploading file of 30394 bytes in 1 chunks of 131072
+[2026-07-30 11:15:25] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:110 -> Target -1003700318583:93
+[2026-07-30 11:15:25] [INFO] [src.cloner]: [90/255] Synced past message ID 110
+[2026-07-30 11:15:27] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:15:28] [INFO] [telethon.client.uploads]: Uploading file of 7758 bytes in 1 chunks of 131072
+[2026-07-30 11:15:29] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:111 -> Target -1003700318583:94
+[2026-07-30 11:15:29] [INFO] [src.cloner]: [91/255] Synced past message ID 111
+[2026-07-30 11:15:30] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:15:32] [INFO] [telethon.client.uploads]: Uploading file of 26705 bytes in 1 chunks of 131072
+[2026-07-30 11:15:35] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:112 -> Target -1003700318583:95
+[2026-07-30 11:15:35] [INFO] [src.cloner]: [92/255] Synced past message ID 112
+[2026-07-30 11:15:36] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:15:48] [INFO] [telethon.client.uploads]: Uploading file of 158450 bytes in 2 chunks of 131072
+[2026-07-30 11:16:01] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:113 -> Target -1003700318583:96
+[2026-07-30 11:16:01] [INFO] [src.cloner]: [93/255] Synced past message ID 113
+[2026-07-30 11:16:02] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:16:04] [INFO] [telethon.client.uploads]: Uploading file of 34525 bytes in 1 chunks of 131072
+[2026-07-30 11:16:04] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:16:06] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:114 -> Target -1003700318583:97
+[2026-07-30 11:16:06] [INFO] [src.cloner]: [94/255] Synced past message ID 114
+[2026-07-30 11:16:07] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:16:08] [INFO] [telethon.client.uploads]: Uploading file of 16472 bytes in 1 chunks of 131072
+[2026-07-30 11:16:10] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:115 -> Target -1003700318583:98
+[2026-07-30 11:16:10] [INFO] [src.cloner]: [95/255] Synced past message ID 115
+[2026-07-30 11:16:11] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:16:13] [INFO] [telethon.client.uploads]: Uploading file of 43820 bytes in 1 chunks of 131072
+[2026-07-30 11:16:16] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:116 -> Target -1003700318583:99
+[2026-07-30 11:16:16] [INFO] [src.cloner]: [96/255] Synced past message ID 116
+[2026-07-30 11:16:17] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:16:18] [INFO] [telethon.client.uploads]: Uploading file of 6974 bytes in 1 chunks of 131072
+[2026-07-30 11:16:19] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:117 -> Target -1003700318583:100
+[2026-07-30 11:16:19] [INFO] [src.cloner]: [97/255] Synced past message ID 117
+[2026-07-30 11:16:21] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:16:22] [INFO] [telethon.client.uploads]: Uploading file of 77908 bytes in 1 chunks of 131072
+[2026-07-30 11:16:26] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:118 -> Target -1003700318583:101
+[2026-07-30 11:16:26] [INFO] [src.cloner]: [98/255] Synced past message ID 118
+[2026-07-30 11:16:27] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:16:28] [INFO] [telethon.client.uploads]: Uploading file of 36826 bytes in 1 chunks of 131072
+[2026-07-30 11:16:31] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:119 -> Target -1003700318583:102
+[2026-07-30 11:16:31] [INFO] [src.cloner]: [99/255] Synced past message ID 119
+[2026-07-30 11:16:32] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 262144 at 0, stride 262144
+[2026-07-30 11:21:19] [INFO] [src.database]: Database initialized at data/clone_history.db
+[2026-07-30 11:21:19] [INFO] [UserbotScraper]: Connecting Telegram Userbot with API ID 37604254...
+[2026-07-30 11:21:19] [INFO] [telethon.network.mtprotosender]: Connecting to 149.154.167.92:443/TcpFull...
+[2026-07-30 11:21:20] [INFO] [telethon.network.mtprotosender]: Connection to 149.154.167.92:443/TcpFull complete!
+[2026-07-30 11:21:22] [INFO] [UserbotScraper]: Logged in as Telegram User: Mr (@LearnWithSamiii) - Phone: +923106126454
+[2026-07-30 11:21:22] [INFO] [src.cloner]: [Telethon] Loaded 1 active channel pairs.
+[2026-07-30 11:21:22] [INFO] [src.cloner]: Telethon event handlers successfully registered.
+[2026-07-30 11:21:22] [INFO] [UserbotScraper]: Starting past history clone from Hustle Pack (-1002883085073) to LWS VaultPack (-1003700318583)...
+[2026-07-30 11:21:22] [INFO] [src.cloner]: Starting historical backfill from '-1002883085073' to '-1003700318583'...
+[2026-07-30 11:21:27] [INFO] [src.cloner]: Found 255 past messages in '-1002883085073'. Backfilling now...
+[2026-07-30 11:21:27] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 11:21:28] [INFO] [src.cloner]: [46/255] Downloading file for msg 60: 100% (0.0MB / 0.0MB)
+[2026-07-30 11:21:28] [INFO] [telethon.client.uploads]: Uploading file of 17441 bytes in 1 chunks of 131072
+[2026-07-30 11:21:28] [INFO] [src.cloner]: [46/255] Uploading file for msg 60: 100%
+[2026-07-30 11:21:29] [WARNING] [src.utils]: Telegram RPCError on attempt 1/5: The caption is too long (caused by SendMediaRequest)
+[2026-07-30 11:21:34] [INFO] [telethon.client.uploads]: Uploading file of 17441 bytes in 1 chunks of 131072
+[2026-07-30 11:21:35] [WARNING] [src.utils]: Telegram RPCError on attempt 2/5: The caption is too long (caused by SendMediaRequest)
+[2026-07-30 11:21:45] [INFO] [telethon.client.uploads]: Uploading file of 17441 bytes in 1 chunks of 131072
+[2026-07-30 11:21:46] [WARNING] [src.utils]: Telegram RPCError on attempt 3/5: The caption is too long (caused by SendMediaRequest)
+[2026-07-30 11:22:06] [INFO] [telethon.client.uploads]: Uploading file of 17441 bytes in 1 chunks of 131072
+[2026-07-30 11:22:07] [WARNING] [src.utils]: Telegram RPCError on attempt 4/5: The caption is too long (caused by SendMediaRequest)
+[2026-07-30 11:22:07] [INFO] [telethon.client.updates]: Got difference for channel 4485448350 updates
+[2026-07-30 11:22:47] [INFO] [telethon.client.uploads]: Uploading file of 17441 bytes in 1 chunks of 131072
+[2026-07-30 11:22:48] [WARNING] [src.utils]: Telegram RPCError on attempt 5/5: The caption is too long (caused by SendMediaRequest)
+[2026-07-30 11:22:48] [ERROR] [src.cloner]: Failed to backfill past msg 60: The caption is too long (caused by SendMediaRequest)
+[2026-07-30 11:22:48] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 262144 at 0, stride 262144
+[2026-07-30 11:23:08] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:24:55] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:25:26] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:27:20] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:29:28] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:30:35] [INFO] [telethon.client.updates]: Got difference for channel 4361309268 updates
+[2026-07-30 11:31:29] [INFO] [telethon.client.updates]: Got difference for channel 4361309268 updates
+[2026-07-30 11:32:04] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:32:23] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:33:33] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:33:45] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:35:27] [INFO] [telethon.client.updates]: Got difference for channel 2342349151 updates
+[2026-07-30 11:36:25] [INFO] [telethon.client.updates]: Got difference for account updates
+[2026-07-30 11:36:37] [INFO] [telethon.client.updates]: Got difference for channel 2342349151 updates
+[2026-07-30 11:37:31] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:37:54] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:40:51] [INFO] [telethon.client.updates]: Got difference for channel 4410623803 updates
+[2026-07-30 11:41:57] [INFO] [telethon.client.updates]: Got difference for channel 3073888341 updates
+[2026-07-30 11:45:07] [INFO] [telethon.client.updates]: Got difference for channel 3089762463 updates
+[2026-07-30 11:45:20] [INFO] [telethon.client.updates]: Got difference for channel 1907949476 updates
+[2026-07-30 11:46:17] [INFO] [telethon.client.updates]: Got difference for channel 3884957877 updates
+[2026-07-30 11:47:20] [INFO] [telethon.client.updates]: Got difference for channel 3276863975 updates
+[2026-07-30 11:47:31] [INFO] [telethon.client.updates]: Got difference for channel 1904926959 updates
+[2026-07-30 11:48:30] [INFO] [telethon.client.updates]: Got difference for channel 4361309268 updates
+[2026-07-30 11:48:42] [INFO] [telethon.client.updates]: Got difference for account updates
+[2026-07-30 11:48:56] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:49:08] [INFO] [telethon.client.updates]: Got difference for channel 2495246342 updates
+[2026-07-30 11:49:22] [INFO] [telethon.client.updates]: Got difference for channel 2342349151 updates
+[2026-07-30 11:50:25] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:50:36] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:53:04] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:57:02] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 11:59:11] [INFO] [src.cloner]: [100/255] Downloading file for msg 120: 15% (85.2MB / 568.2MB)
+[2026-07-30 11:59:29] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 12:00:57] [INFO] [telethon.client.updates]: Got difference for channel 3949702008 updates
+[2026-07-30 12:01:31] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 12:02:19] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 12:03:35] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 12:04:05] [INFO] [telethon.client.updates]: Got difference for account updates
+[2026-07-30 12:04:50] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 12:05:32] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 12:07:14] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 12:07:58] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 12:12:36] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 12:15:31] [INFO] [telethon.client.updates]: Got difference for channel 3364371981 updates
+[2026-07-30 12:17:52] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 12:21:12] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 12:23:28] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 12:25:14] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 12:28:03] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 12:29:13] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 12:38:12] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 12:39:50] [INFO] [src.cloner]: [100/255] Downloading file for msg 120: 40% (227.5MB / 568.2MB)
+[2026-07-30 12:42:26] [INFO] [telethon.client.updates]: Got difference for channel 1973708807 updates
+[2026-07-30 12:45:29] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 12:49:09] [INFO] [src.database]: Database initialized at data/clone_history.db
+[2026-07-30 12:49:09] [INFO] [UserbotScraper]: Connecting Telegram Userbot with API ID 37604254...
+[2026-07-30 12:49:09] [INFO] [telethon.network.mtprotosender]: Connecting to 149.154.167.92:443/TcpFull...
+[2026-07-30 12:49:09] [INFO] [telethon.network.mtprotosender]: Connection to 149.154.167.92:443/TcpFull complete!
+[2026-07-30 12:49:12] [INFO] [UserbotScraper]: Logged in as Telegram User: Mr (@LearnWithSamiii) - Phone: +923106126454
+[2026-07-30 12:49:12] [INFO] [src.cloner]: [Telethon] Loaded 1 active channel pairs.
+[2026-07-30 12:49:12] [INFO] [src.cloner]: Telethon event handlers successfully registered.
+[2026-07-30 12:49:12] [INFO] [UserbotScraper]: Starting past history clone from Hustle Pack (-1002883085073) to LWS VaultPack (-1003700318583)...
+[2026-07-30 12:49:12] [INFO] [src.cloner]: Starting HIGH-SPEED historical backfill from '-1002883085073' to '-1003700318583'...
+[2026-07-30 12:49:17] [INFO] [src.cloner]: Found 255 past messages in '-1002883085073'. Backfilling now...
+[2026-07-30 12:49:18] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 131072 at 0, stride 131072
+[2026-07-30 12:49:19] [INFO] [src.cloner]: [46/255] Downloading file for msg 60: 100% (0.0MB / 0.0MB)
+[2026-07-30 12:49:19] [INFO] [telethon.client.uploads]: Uploading file of 17441 bytes in 1 chunks of 131072
+[2026-07-30 12:49:19] [INFO] [src.cloner]: [46/255] Uploading file for msg 60: 100% (0.0MB / 0.0MB)
+[2026-07-30 12:49:21] [INFO] [src.cloner]: [Re-uploaded] Source -1002883085073:60 -> Target -1003700318583:103
+[2026-07-30 12:49:21] [INFO] [src.cloner]: [46/255] Synced past message ID 60
+[2026-07-30 12:49:21] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 262144 at 0, stride 262144
+[2026-07-30 12:51:24] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 12:51:30] [INFO] [telethon.client.updates]: Got difference for channel 4361309268 updates
+[2026-07-30 12:52:55] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 12:53:21] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 12:53:46] [INFO] [src.database]: Database initialized at data/clone_history.db
+[2026-07-30 12:53:47] [INFO] [UserbotScraper]: Connecting Telegram Userbot with API ID 37604254...
+[2026-07-30 12:53:47] [INFO] [telethon.network.mtprotosender]: Connecting to 149.154.167.92:443/TcpFull...
+[2026-07-30 12:53:47] [INFO] [telethon.network.mtprotosender]: Connection to 149.154.167.92:443/TcpFull complete!
+[2026-07-30 12:53:50] [INFO] [UserbotScraper]: Logged in as Telegram User: Mr (@LearnWithSamiii) - Phone: +923106126454
+[2026-07-30 12:53:50] [INFO] [src.cloner]: [Telethon] Loaded 1 active channel pairs.
+[2026-07-30 12:53:50] [INFO] [src.cloner]: Telethon event handlers successfully registered.
+[2026-07-30 12:53:50] [INFO] [UserbotScraper]: Starting past history clone from Hustle Pack (-1002883085073) to LWS VaultPack (-1003700318583)...
+[2026-07-30 12:53:50] [INFO] [src.cloner]: Starting HIGH-SPEED historical backfill from '-1002883085073' to '-1003700318583'...
+[2026-07-30 12:53:54] [INFO] [src.cloner]: Found 255 past messages in '-1002883085073'. Backfilling now...
+[2026-07-30 12:53:55] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 262144 at 0, stride 262144
+[2026-07-30 12:56:20] [INFO] [telethon.client.updates]: Got difference for channel 4361309268 updates
+[2026-07-30 12:57:26] [INFO] [src.database]: Database initialized at data/clone_history.db
+[2026-07-30 12:57:26] [INFO] [UserbotScraper]: Connecting Telegram Userbot with API ID 37604254...
+[2026-07-30 12:57:26] [INFO] [telethon.network.mtprotosender]: Connecting to 149.154.167.92:443/TcpFull...
+[2026-07-30 12:57:27] [INFO] [telethon.network.mtprotosender]: Connection to 149.154.167.92:443/TcpFull complete!
+[2026-07-30 12:57:29] [INFO] [UserbotScraper]: Logged in as Telegram User: Mr (@LearnWithSamiii) - Phone: +923106126454
+[2026-07-30 12:57:29] [INFO] [src.cloner]: [Telethon] Loaded 1 active channel pairs.
+[2026-07-30 12:57:29] [INFO] [src.cloner]: Telethon event handlers successfully registered.
+[2026-07-30 12:57:29] [INFO] [UserbotScraper]: Starting past history clone from Hustle Pack (-1002883085073) to LWS VaultPack (-1003700318583)...
+[2026-07-30 12:57:29] [INFO] [src.cloner]: Starting HIGH-SPEED historical backfill from '-1002883085073' to '-1003700318583'...
+[2026-07-30 12:57:34] [INFO] [src.cloner]: Found 255 past messages in '-1002883085073'. Backfilling now...
+[2026-07-30 12:57:34] [INFO] [telethon.client.downloads]: Starting direct file download in chunks of 262144 at 0, stride 262144
+[2026-07-30 12:57:37] [INFO] [src.cloner]: [100/255] Downloading media for msg 120: 0% (0.2MB / 568.2MB)
+[2026-07-30 12:59:11] [INFO] [telethon.client.updates]: Got difference for channel 1907949476 updates
+[2026-07-30 13:01:11] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 13:02:05] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 13:03:28] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 13:08:24] [INFO] [src.database]: Database initialized at data/clone_history.db
+[2026-07-30 13:08:24] [INFO] [UserbotScraper]: Connecting Telegram Userbot with API ID 37604254...
+[2026-07-30 13:08:24] [INFO] [telethon.network.mtprotosender]: Connecting to 149.154.167.92:443/TcpFull...
+[2026-07-30 13:08:24] [INFO] [telethon.network.mtprotosender]: Connection to 149.154.167.92:443/TcpFull complete!
+[2026-07-30 13:09:59] [INFO] [src.database]: Database initialized at data/clone_history.db
+[2026-07-30 13:09:59] [INFO] [UserbotScraper]: Connecting Telegram Userbot with API ID 37604254...
+[2026-07-30 13:09:59] [INFO] [telethon.network.mtprotosender]: Connecting to 149.154.167.92:443/TcpFull...
+[2026-07-30 13:09:59] [INFO] [telethon.network.mtprotosender]: Connection to 149.154.167.92:443/TcpFull complete!
+[2026-07-30 13:10:02] [INFO] [UserbotScraper]: Logged in as Telegram User: Mr (@LearnWithSamiii) - Phone: +923106126454
+[2026-07-30 13:11:22] [INFO] [src.database]: Database initialized at data/clone_history.db
+[2026-07-30 13:11:22] [INFO] [UserbotScraper]: Connecting Telegram Userbot with API ID 37604254...
+[2026-07-30 13:11:22] [INFO] [telethon.network.mtprotosender]: Connecting to 149.154.167.92:443/TcpFull...
+[2026-07-30 13:11:23] [INFO] [telethon.network.mtprotosender]: Connection to 149.154.167.92:443/TcpFull complete!
+[2026-07-30 13:11:26] [INFO] [UserbotScraper]: Logged in as Telegram User: Mr (@LearnWithSamiii) - Phone: +923106126454
+[2026-07-30 13:11:26] [INFO] [src.cloner]: [Telethon] Loaded 1 active channel pairs.
+[2026-07-30 13:11:26] [INFO] [src.cloner]: Telethon event handlers successfully registered.
+[2026-07-30 13:11:26] [INFO] [UserbotScraper]: Starting past history clone from Hustle Pack (-1002883085073) to LWS VaultPack (-1003700318583)...
+[2026-07-30 13:11:26] [INFO] [src.cloner]: Starting UNLIMITED FULL-CLONE historical backfill from '-1002883085073' to '-1003700318583'...
+[2026-07-30 13:11:27] [ERROR] [src.cloner]: Cannot resolve channel entity for -1002883085073 or -1003700318583: Cannot find any entity corresponding to "-1002883085073"
+[2026-07-30 13:11:27] [INFO] [UserbotScraper]: Historical clone complete! Bot is now listening for new live posts in real-time. Press Ctrl+C to stop.
+[2026-07-30 13:13:45] [INFO] [src.database]: Database initialized at data/clone_history.db
+[2026-07-30 13:13:45] [INFO] [UserbotScraper]: Connecting Telegram Userbot with API ID 37604254...
+[2026-07-30 13:13:45] [INFO] [telethon.network.mtprotosender]: Connecting to 149.154.167.92:443/TcpFull...
+[2026-07-30 13:13:46] [INFO] [telethon.network.mtprotosender]: Connection to 149.154.167.92:443/TcpFull complete!
+[2026-07-30 13:13:49] [INFO] [UserbotScraper]: Logged in as Telegram User: Mr (@LearnWithSamiii) - Phone: +923106126454
+[2026-07-30 13:13:49] [INFO] [src.cloner]: [Telethon] Loaded 1 active channel pairs.
+[2026-07-30 13:13:49] [INFO] [src.cloner]: Telethon event handlers successfully registered.
+[2026-07-30 13:13:49] [INFO] [UserbotScraper]: Starting past history clone from Hustle Pack (-1002883085073) to LWS VaultPack (-1003700318583)...
+[2026-07-30 13:13:49] [INFO] [src.cloner]: Starting UNLIMITED FULL-CLONE historical backfill from '-1002883085073' to '-1003700318583'...
+[2026-07-30 13:14:06] [ERROR] [src.cloner]: Cannot resolve channel entity for -1002883085073 or -1003700318583: Cannot find any entity corresponding to "-1002883085073"
+[2026-07-30 13:14:06] [INFO] [UserbotScraper]: Historical clone complete! Bot is now listening for new live posts in real-time. Press Ctrl+C to stop.
+[2026-07-30 13:14:29] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates
+[2026-07-30 13:17:50] [INFO] [telethon.client.updates]: Got difference for channel 2856248581 updates

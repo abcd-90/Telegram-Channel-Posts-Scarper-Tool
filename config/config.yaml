@@ -1,0 +1,68 @@
+telegram:
+  api_id: 37604254
+  api_hash: "a3e5e613247c608bb81a3000c9bb9785"
+  phone_number: "+923106126454"
+
+channels:
+  - source: -1002883085073       # Source Channel: Hustle Pack
+    target: -1003700318583       # Target Channel: LWS VaultPack
+    mirror_edits: true
+    mirror_deletions: true
+    backfill_history: true
+
+bot_token: "8851400307:AAHZ7bZVlgUquQtqJRbDyROrCwmmVMBTG3k"
+
+settings:
+  forward_enabled: true           # Try Server-Side Fast Forwarding first for INSTANT 1-second cloning!
+  download_media: true
+  max_file_size_mb: 0             # 0 = UNLIMITED (Clone 100% of all files regardless of size!)
+  retry_attempts: 10
+  retry_delay: 5
+  flood_sleep_threshold: 60
+  log_level: "INFO"
+
+features:
+  content_filter:
+    enable: true
+    blocked_keywords: ["spam", "adult", "casino"]
+    nsfw_detection: true
+    min_length: 10
+
+  multi_channel:
+    enable: true
+    sources: [-1002883085073]
+    target: -1003700318583
+
+  schedule:
+    enable: false
+    cron: "0 2 * * *"
+
+  translation:
+    enable: false
+    target_language: "ur"
+    source_language: "en"
+
+  auto_reply:
+    enable: false
+    reply_text: "This is an auto-reply"
+    enable_ai: false
+
+  web_dashboard:
+    enable: true
+    port: 8080
+
+  backup:
+    enable: true
+    interval_hours: 24
+    path: "./backups/"
+
+  duplicate_detection:
+    enable: true
+    similarity_threshold: 85
+
+  bot_control:
+    enable: true
+
+  analytics:
+    enable: true
+    db_path: "./data/analytics.db"

@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  telegram-cloner:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: telegram-cloner-bot
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      - ./config:/app/config
+      - ./data:/app/data
+      - ./logs:/app/logs
