@@ -31,7 +31,11 @@ async def main():
     await db.init_db()
 
     import python_socks
-    proxy = (python_socks.ProxyType.HTTP, 'proxy.server', 3128)
+    proxy_host = os.getenv("PROXY_HOST")
+    proxy_port = os.getenv("PROXY_PORT")
+    proxy = None
+    if proxy_host and proxy_port:
+        proxy = (python_socks.ProxyType.SOCKS5, proxy_host, int(proxy_port))
 
     session_path = "data/user_session"
     client = TelegramClient(
