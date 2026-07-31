@@ -30,13 +30,13 @@ async def main():
     db = Database("data/clone_history.db")
     await db.init_db()
 
-    from telethon import connection
+    from telethon.network.connection.http import ConnectionHttpPadded
     session_path = "data/user_session"
     client = TelegramClient(
         session_path,
         config.telegram.api_id,
         config.telegram.api_hash,
-        connection=connection.ConnectionHttpFull,
+        connection=ConnectionHttpPadded,
         sequential_updates=True
     )
 
