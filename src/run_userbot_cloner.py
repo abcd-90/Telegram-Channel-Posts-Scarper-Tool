@@ -30,19 +30,11 @@ async def main():
     db = Database("data/clone_history.db")
     await db.init_db()
 
-    import python_socks
-    proxy_host = os.getenv("PROXY_HOST")
-    proxy_port = os.getenv("PROXY_PORT")
-    proxy = None
-    if proxy_host and proxy_port:
-        proxy = (python_socks.ProxyType.SOCKS5, proxy_host, int(proxy_port))
-
     session_path = "data/user_session"
     client = TelegramClient(
         session_path,
         config.telegram.api_id,
         config.telegram.api_hash,
-        proxy=proxy,
         sequential_updates=True,
         connection_retries=10,
         retry_delay=2
