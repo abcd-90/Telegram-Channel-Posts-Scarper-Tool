@@ -197,9 +197,12 @@ class WebDashboardServer:
                     "[INFO] Server-side fast forwarding ready."
                 ]
 
-            config = uvicorn.Config(app=app, host="0.0.0.0", port=self.port, log_level="warning")
-            server = uvicorn.Server(config)
-            logger.info(f"🌐 [Web Dashboard API] Server running at http://0.0.0.0:{self.port}/api/status")
-            asyncio.create_task(server.serve())
+            try:
+                config = uvicorn.Config(app=app, host="0.0.0.0", port=self.port, log_level="warning")
+                server = uvicorn.Server(config)
+                logger.info(f"🌐 [Web Dashboard API] Server running at http://0.0.0.0:{self.port}/api/status")
+                asyncio.create_task(server.serve())
+            except Exception as bind_err:
+                logger.warning(f"⚠️ [Web Dashboard Note] Port {self.port} bound, skipping dashboard server: {bind_err}")
         except Exception as e:
             logger.warning(f"⚠️ [Web Dashboard Note] FastAPI/Uvicorn server start note: {e}")
